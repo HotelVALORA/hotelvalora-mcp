@@ -1,0 +1,11 @@
+{
+  "name": "hotelvalora-mcp",
+  "version": "1.0.0",
+  "description": "Institutional hotel valuations, comp sets and markets (Madrid, New York) from HotelVALORA, with what-if scenarios and goal-seek.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "hotelvalora": {
+      "httpUrl": "https://www.hotelvalora.com/api/mcp"
+    }
+  }
+}
